@@ -7,7 +7,7 @@
 
 <!-- Dynamic Tech Stack & Roles Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Engineer;React+%7C+Next.js+%7C+NestJS;CI%2FCD+%7C+Deployment+%7C+Payments;Building+Scalable+Production+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+NestJS;CI%2FCD+%7C+Deployment+%7C+Payments;Building+Scalable+Production+Systems" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-I am a **Full-Stack Engineer** passionate about building scalable, maintainable, and production-ready software systems. I bridge the gap between seamless user experiences and robust backend architectures.
+I am a **Full-Stack Developer** passionate about building scalable, maintainable, and production-ready software systems. I bridge the gap between seamless user experiences and robust backend architectures.
 
 * 🚀 Specializing in modern JavaScript/TypeScript ecosystems (**React, Next.js, NestJS**).
 * ⚙️ Experienced in automating workflows via **CI/CD pipelines** and managing secure cloud deployments.
