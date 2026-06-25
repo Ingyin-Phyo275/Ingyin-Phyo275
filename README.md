@@ -45,6 +45,7 @@ I am a **Full-Stack Engineer** passionate about building scalable, maintainable,
     </td>
     <!-- Right Column: Most Used Languages Donut Chart -->
     <td width="45%" valign="top" align="center">
+      <h3>📊 Language Metrics</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ingyin-Phyo275&theme=tokyonight&hide_border=true&layout=donut" width="100%" alt="Top Languages Chart" />
     </td>
   </tr>
